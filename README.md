@@ -2,8 +2,6 @@
 
 Welcome to the **Simon Says Game**! This is a fun and interactive memory game built using **HTML**, **CSS**, and **JavaScript**. The objective of the game is to repeat the sequence of colors displayed by the computer. Let's see how far you can go!
 
-![Simon Says Game Banner](https://via.placeholder.com/1000x300?text=Simon+Says+Game)
-
 ---
 
 ## 🎮 How to Play
@@ -59,7 +57,7 @@ To play the game locally:
 
 ## 🖥️ Demo
 
-You can play the game live [here](https://github.com/whitedevil9911/SimonSaysGame).
+You can play the game live [here](https://simonsaysgame-sigma.vercel.app).
 
 ---
 
